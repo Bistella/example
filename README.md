@@ -1,3 +1,3 @@
 # example
 trial repo
-This is an exercise
+This is an easy exercise
